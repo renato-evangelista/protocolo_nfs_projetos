@@ -1,0 +1,10 @@
+{"filial":"distribuidora", "nIdTransp": "10359461343", "transportador": "Jaylton"}
+{"filial":"distribuidora", "nIdTransp": "10359461083", "transportador": "Jaylton"}
+{"filial":"distribuidora", "nIdTransp": "10519826587", "transportador": "Luan"}
+{"filial":"distribuidora", "nIdTransp": "10364434574", "transportador": "Wesley"}
+
+
+{"filial":"comercio", "nIdTransp": "8603320478", "transportador": "Wesley"}
+{"filial":"comercio", "nIdTransp": "8598091217", "transportador": "Jaylton"}
+{"filial":"comercio", "nIdTransp": "8598091687", "transportador": "Jaylton"}
+{"filial":"comercio", "nIdTransp": "12330332636", "transportador": "Luan"}
